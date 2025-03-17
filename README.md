@@ -4,6 +4,9 @@
 
 This project utilizes **Power BI** to analyze and visualize **performance metrics** based on operational data. The dashboard helps **stakeholders monitor key indicators** and make **data-driven decisions** for process improvements.  
 
+![Dashboard ](https://github.com/vedanshibansal/Power-BI---Performance-Analysis-Dashboard/blob/b5cbc2ff01fde9d3b41a71dfbd46ef3376773370/Dashboard)
+
+
 ---
 
 ## 📂 Data & Reports  
